@@ -1,0 +1,11 @@
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\3ve-Walker.exe
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\3ve-Walker.pdb
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\bin\Debug\3ve-Walker.exe
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\bin\Debug\3ve-Walker.pdb
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\_ve_Walker.frmMain.resources
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\_ve_Walker.frmWalker.resources
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\_ve_Walker.frmCommand.resources
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\_ve_Walker.frmEditor.resources
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\_ve_Walker.Properties.Resources.resources
+D:\Documents and Settings\Bibi\My Documents\Visual Studio 2005\Projects\3ve-Walker\3ve-Walker\obj\Debug\3ve-Walker.csproj.GenerateResource.Cache
